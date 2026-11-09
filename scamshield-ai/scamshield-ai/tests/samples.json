@@ -1,0 +1,22 @@
+[
+ {"text":"URGENT: Your SBI account will be blocked today. Update KYC now at http://sbi-kyc-update.xyz or share your OTP.","label":"scam"},
+ {"text":"Congratulations! You won a $1000 Amazon gift card. Pay a small processing fee to claim your prize.","label":"scam"},
+ {"text":"This is CBI. A parcel in your name contains drugs. You are under digital arrest. Do not tell anyone and pay a fine immediately.","label":"scam"},
+ {"text":"Dear customer, your package is undelivered. Reschedule delivery and pay 2 USD fee here: bit.ly/3xYzAb","label":"scam"},
+ {"text":"Work from home and earn $500 daily. Guaranteed returns. Send registration fee via crypto to start.","label":"scam"},
+ {"text":"Microsoft support here. Your PC has a virus. Install AnyDesk so we can fix it right now.","label":"scam"},
+ {"text":"Your Netflix payment failed. Verify your card details within 24 hours at netflix-billing-help.top or account will be suspended.","label":"scam"},
+ {"text":"Hi, it's mom. I lost my phone, this is my new number. Please send 5000 via gift cards urgently and don't tell dad.","label":"scam"},
+ {"text":"Final notice from IRS: legal action will be taken. Pay with bitcoin within 2 hours to avoid arrest.","label":"scam"},
+ {"text":"Dear winner, your lucky draw reward is waiting. Click here to claim: http://192.168.4.7/claim","label":"scam"},
+ {"text":"Hey, are we still meeting for lunch at 1pm tomorrow?","label":"safe"},
+ {"text":"Your Amazon order #123-456 has shipped and will arrive Friday. Track it in the Amazon app.","label":"safe"},
+ {"text":"123456 is your verification code. Do not share this code with anyone.","label":"safe"},
+ {"text":"Reminder: your dentist appointment is on Monday at 10:30. Reply YES to confirm.","label":"safe"},
+ {"text":"Thanks for your payment of $24.99. Your receipt is attached. See you next month!","label":"safe"},
+ {"text":"Team, the class project deadline moved to Friday. Please upload your slides before then.","label":"safe"},
+ {"text":"Your electricity bill for October is ready. View it by logging in to the official app.","label":"safe"},
+ {"text":"Happy birthday! Dinner at 8 tonight, don't be late.","label":"safe"},
+ {"text":"Your interview is scheduled for Tuesday 3pm on Google Meet. Calendar invite attached.","label":"safe"},
+ {"text":"Homework for chapter 5 is on page 42. Thank you everyone for today's class.","label":"safe"}
+]
